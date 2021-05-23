@@ -1,0 +1,16 @@
+Cucumber Dersleri - 1. Ders
+
+* Selenium
+	- selenium-java
+* Boni Garcia Web Driver Manager
+	- webdrivermanager
+* Cucumber
+	- cucumber-java
+	- cucumber-junit
+
+Paketler:
+---------
+pages	 : webElementler
+runners  : testÇalıştırma
+stepdefinitions : testMethodları
+utilities: driver, configurationReader vs.
