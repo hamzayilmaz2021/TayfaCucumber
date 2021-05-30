@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources/features",
         glue = "stepdefinitions", // test adımlarının bulunduğu klasör
-        tags = "@amazonarama",
+        tags = "@tables",
         dryRun = false // true ise sadece eksik olan methodları söyle
                       // false ise direk teste başla
 )
