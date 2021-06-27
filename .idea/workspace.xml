@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5156d21a-f3c6-4216-9abd-880b09a0f4f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/AmazonEnIyıUrunSD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/amazoneniyiurun.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/AmazonEnIyıUrunSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/AmazonEnIyıUrunSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/amazoneniyiurun.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/amazoneniyiurun.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/amazoneniyiurun.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/amazoneniyiurun.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/AmazonPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/AmazonPage.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
