@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5156d21a-f3c6-4216-9abd-880b09a0f4f3" name="Default Changelist" comment="" />
+    <list default="true" id="5156d21a-f3c6-4216-9abd-880b09a0f4f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/AmazonEnIyıUrunSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/amazoneniyiurun.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +45,26 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Cucumber Java.Scenario: kullanici arama sonuclarindaki en iyi urunu bulur">
+    <configuration name="Scenario: kullanici arama sonuclarindaki en iyi urunu bulur" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/amazoneniyiurun.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="TayfaCucumber" />
+      <option name="NAME_FILTER" value="^kullanici arama sonuclarindaki en iyi urunu bulur$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^kullanici arama sonuclarindaki en iyi urunu bulur$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: kullanici arama sonuclarindaki en iyi urunu bulur" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TayfaCucumber" />
       <extension name="coverage">
@@ -58,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Scenario: kullanici arama sonuclarindaki en iyi urunu bulur" />
         <item itemvalue="JUnit.Runner" />
       </list>
     </recent_temporary>
@@ -76,34 +101,15 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="2397" y="349" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621797322768">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2397" y="349" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1621797322768" />
-    <state x="2384" y="231" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1621801617844">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2384" y="231" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1621801617844" />
-    <state width="1217" height="664" key="GridCell.Tab.0.bottom" timestamp="1622402869769">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1217" height="664" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1622402869769" />
-    <state width="1217" height="664" key="GridCell.Tab.0.center" timestamp="1622402869769">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1217" height="664" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1622402869769" />
-    <state width="1217" height="664" key="GridCell.Tab.0.left" timestamp="1622402869768">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1217" height="664" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1622402869768" />
-    <state width="1217" height="664" key="GridCell.Tab.0.right" timestamp="1622402869769">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1217" height="664" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1622402869769" />
-    <state x="1643" y="152" key="SettingsEditor" timestamp="1621798225463">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1643" y="152" key="SettingsEditor/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1621798225463" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
